@@ -1,0 +1,9 @@
+.apresentacao__conteudo {    
+    display: flex;
+    flex-direction: column;
+    gap: 3.5vh;
+}
+
+.apresentacao__conteudo__texto__lista {
+    padding: 0 0 0 10vh;
+}
